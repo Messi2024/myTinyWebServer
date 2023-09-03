@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "limits": "cpp",
+        "type_traits": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
